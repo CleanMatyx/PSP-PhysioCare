@@ -163,5 +163,5 @@ src/main
 
 <hr>
 
-<h2 id="license">📄 License </h2>
+<h2 id="license">📄 License</h2>
 <p>This project is licensed under the <strong>MIT License</strong>. See <a href="LICENSE">LICENSE</a> for details.</p>
